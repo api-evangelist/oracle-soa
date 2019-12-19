@@ -1,0 +1,56 @@
+{
+    "name": "Oracle SOA",
+    "description": "The Oracle Cloud offers complete SaaS application suites for ERP, HCM and CX, plus best-in-class database Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) from data centers throughout the Americas, Europe and Asia. For more informati...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1813-oracle-soa.jpg",
+    "tags": [
+        "fuckheads",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/oracle-soa\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Oracle SOA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1813-oracle-soa.jpg",
+            "humanURL": "http:\/\/www.oracle.com\/us\/products\/middleware\/identity-management\/api-gateway\/overview\/index.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/oracle-soa-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/oracle"
+        },
+        {
+            "type": "Email",
+            "url": "copyright_us@oracle.com"
+        },
+        {
+            "type": "Email",
+            "url": "oracle-acct_ww@oracle.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OracleSOA"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Oracle"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.oracle.com\/us\/products\/middleware\/identity-management\/api-gateway\/overview\/index.html"
+        }
+    ]
+}
